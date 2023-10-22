@@ -7,5 +7,7 @@
   "defaultViewMode": "preview",
   "readableLineLength": false,
   "propertiesInDocument": "source",
-  "foldHeading": true
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true
 }
