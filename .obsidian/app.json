@@ -2,7 +2,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
   "promptDelete": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "Attachments",
   "livePreview": false,
   "defaultViewMode": "preview",
   "readableLineLength": false,

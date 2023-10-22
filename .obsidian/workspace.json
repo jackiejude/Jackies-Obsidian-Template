@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c4da0b6067a2c49a",
+        "id": "9dc37e9ae0e683ea",
         "type": "tabs",
         "children": [
           {
-            "id": "4b2311d7c4183927",
+            "id": "d3045834e9d5177e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               }
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 268.5
   },
   "right": {
     "id": "f790f04aba72a6f7",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,15 +151,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +175,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b2311d7c4183927",
+  "active": "d3045834e9d5177e",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20231021214316.png",
+    "Attachments",
+    "Pasted image 20231021214242.png",
+    "Home.md",
+    "Daily/2023-10-21.md",
     "Tasks.md",
-    "Home.md"
+    "README.md",
+    "Inbox/Pasted image 20231021213650.png"
   ]
 }

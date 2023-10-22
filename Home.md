@@ -1,4 +1,4 @@
-| [Daily Note](obsidian://advanced-uri?vault=Jackie-Template&daily=true) | [[Tasks]] |
+| [Daily Note](obsidian://advanced-uri?vault=Jackies-Obsidian-Template&daily=true) | [[Tasks]] |
 | ---------------------------------------------------------------------- | --------- |
 
 ---
