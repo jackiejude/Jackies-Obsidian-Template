@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d8ffa8fa3279d1",
+        "id": "bfd274924885c88b",
         "type": "tabs",
         "children": [
           {
-            "id": "ce08dc52ae388c3c",
+            "id": "a6c9e0d221b1525c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": true
               }
@@ -31,7 +31,7 @@
       {
         "id": "455bc1706b1d1580",
         "type": "tabs",
-        "dimension": 19.230769230769234,
+        "dimension": 21.45922746781116,
         "children": [
           {
             "id": "3322d9712801df46",
@@ -46,7 +46,7 @@
       {
         "id": "044bb08c18aaae4a",
         "type": "tabs",
-        "dimension": 80.76923076923077,
+        "dimension": 78.54077253218884,
         "children": [
           {
             "id": "78890f5205d836e9",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Home.md"
               }
             }
           }
@@ -175,9 +175,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce08dc52ae388c3c",
+  "active": "a6c9e0d221b1525c",
   "lastOpenFiles": [
     "Home.md",
+    "Inbox/New Note.md",
     "Attachments/Screenshot.png",
     "Attachments",
     "Pasted image 20231021214242.png",
