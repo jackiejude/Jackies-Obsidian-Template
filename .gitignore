@@ -1,0 +1,2 @@
+# Don't track recent files in git
+.obsidian/plugins/recent-files-obsidian/data.json

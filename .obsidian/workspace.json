@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bfd274924885c88b",
+        "id": "54fad465c7c340b9",
         "type": "tabs",
         "children": [
           {
-            "id": "a6c9e0d221b1525c",
+            "id": "a971542da9158230",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,13 +31,13 @@
       {
         "id": "455bc1706b1d1580",
         "type": "tabs",
-        "dimension": 21.45922746781116,
+        "dimension": 21.810250817884405,
         "children": [
           {
-            "id": "3322d9712801df46",
+            "id": "87e6f6e5f93e4562",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -46,7 +46,7 @@
       {
         "id": "044bb08c18aaae4a",
         "type": "tabs",
-        "dimension": 78.54077253218884,
+        "dimension": 78.18974918211559,
         "children": [
           {
             "id": "78890f5205d836e9",
@@ -73,6 +73,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3322d9712801df46",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
             "id": "ab4104ef1883b7c6",
             "type": "leaf",
             "state": {
@@ -85,14 +93,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "87e6f6e5f93e4562",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           },
           {
@@ -155,12 +155,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,16 +175,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6c9e0d221b1525c",
+  "active": "a971542da9158230",
   "lastOpenFiles": [
+    "README.md",
     "Home.md",
-    "Inbox/New Note.md",
     "Attachments/Screenshot.png",
+    "Tasks.md",
+    "Inbox/New Note.md",
     "Attachments",
     "Pasted image 20231021214242.png",
     "Daily/2023-10-21.md",
-    "Tasks.md",
-    "README.md",
     "Inbox/Pasted image 20231021213650.png"
   ]
 }
