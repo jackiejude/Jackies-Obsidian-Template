@@ -1,4 +1,4 @@
 
 A Minimal Obsidian Template
 
-![Screenshot](Screenshot.png)
+![Screenshot](Attachments/Screenshot.png)
