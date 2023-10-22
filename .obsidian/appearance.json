@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Royal Velvet",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Iterative Rainbow Folder Titles",
+    "vertical_kanban",
+    "Royal Velvet"
+  ],
+  "baseFontSize": 16
+}

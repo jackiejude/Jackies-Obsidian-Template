@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "propertiesInDocument": "source",
+  "foldHeading": true
+}
