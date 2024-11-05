@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiInbox",
+      "LiCalendar",
+      "LiPaperclip",
       "RiTodoLine",
       "RiHome2Line"
     ],
@@ -31,5 +34,8 @@
     "debugMode": false
   },
   "Home.md": "RiHome2Line",
-  "Tasks.md": "RiTodoLine"
+  "Tasks.md": "RiTodoLine",
+  "Attachments": "LiPaperclip",
+  "Daily": "LiCalendar",
+  "Inbox": "LiInbox"
 }
