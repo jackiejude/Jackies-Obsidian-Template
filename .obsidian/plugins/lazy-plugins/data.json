@@ -44,6 +44,15 @@
       },
       "obsidian-plugin-update-tracker": {
         "startupType": "disabled"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "periodic-para": {
+        "startupType": "instant"
+      },
+      "omnisearch": {
+        "startupType": "instant"
       }
     }
   },

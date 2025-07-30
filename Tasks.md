@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -16,13 +16,12 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
-- [x] Finished Task
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%

@@ -1,7 +1,7 @@
 ---
 tags:
-  - blog
-aliases: "#blog"
+  - ExampleProject
+aliases: "#ExampleProject"
 ---
 ## Task
 ### By Tag
