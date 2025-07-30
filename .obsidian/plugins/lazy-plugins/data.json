@@ -5,7 +5,7 @@
     "shortDelaySeconds": 5,
     "longDelaySeconds": 15,
     "delayBetweenPlugins": 40,
-    "defaultStartupType": null,
+    "defaultStartupType": "instant",
     "showDescriptions": true,
     "enableDependencies": false,
     "plugins": {
@@ -43,7 +43,7 @@
         "startupType": "instant"
       },
       "obsidian-plugin-update-tracker": {
-        "startupType": "disabled"
+        "startupType": "instant"
       },
       "dataview": {
         "startupType": "instant"

@@ -11,5 +11,6 @@
   "lazy-plugins",
   "dataview",
   "periodic-para",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-plugin-update-tracker"
 ]

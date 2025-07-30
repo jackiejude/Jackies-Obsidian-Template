@@ -1,4 +1,3 @@
-
-A Minimal Obsidian Template
+# Jackie's Obsidian Template
 
 ![Screenshot](Attachments/Screenshot.png)
