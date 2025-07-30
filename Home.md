@@ -5,14 +5,11 @@
 
 # Tasks
 ```tasks
-
+not done
 ```
 
 ---
 
-# Links
+# Projects
 
-- [Obsidian Hub](https://publish.obsidian.md/hub/00+-+Start+here)
-- [Obsidian Forum](https://forum.obsidian.md/)
-- [Jackie's Blog](https://jackiejude.me/)
-
+![[Projects]]

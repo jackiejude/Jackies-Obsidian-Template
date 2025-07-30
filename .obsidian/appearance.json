@@ -3,9 +3,9 @@
   "cssTheme": "Royal Velvet",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "Iterative Rainbow Folder Titles",
     "vertical_kanban",
-    "Royal Velvet"
+    "Royal Velvet",
+    "Iterative Rainbow Folder Titles"
   ],
   "baseFontSize": 16
 }
